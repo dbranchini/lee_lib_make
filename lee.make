@@ -85,7 +85,7 @@ projects[cul_multisearch][subdir] = "custom"
 projects[lee_lib][type] = "theme"
 projects[lee_lib][download][type] = "git"
 projects[lee_lib][download][url] = "git@github.com:dbranchini/lee-library-drupal.git"
-projects[lee_lib][download][revision] = "e7dffb3c960fe0b997682790648721de6e834542"
+projects[lee_lib][download][branch] = "master"
 
 ; Libraries
 ; wysiwyg 
