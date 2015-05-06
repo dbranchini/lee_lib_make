@@ -2,14 +2,14 @@
 core = 7.x
 
 api = 2
-projects[drupal][version] = "7.34"
+projects[drupal][version] = "7.36"
 
 ; Modules
 projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][version] = "3.0-rc5"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.5"
+projects[ctools][version] = "1.7"
 
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.8"
@@ -24,10 +24,10 @@ projects[job_scheduler][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
 
 projects[jquery_update][subdir] = "contrib"
-projects[jquery_update][version] = "2.4"
+projects[jquery_update][version] = "2.5"
 
 projects[menu_block][subdir] = "contrib"
-projects[menu_block][version] = "2.4"
+projects[menu_block][version] = "2.5"
 
 projects[pathauto][subdir] = "contrib"
 projects[pathauto][version] = "1.2"
@@ -36,10 +36,10 @@ projects[simplesamlphp_auth][subdir] = "contrib"
 projects[simplesamlphp_auth][version] = "2.0-alpha2"
 
 projects[token][subdir] = "contrib"
-projects[token][version] = "1.5"
+projects[token][version] = "1.6"
 
 projects[views][subdir] = "contrib"
-projects[views][version] = "3.8"
+projects[views][version] = "3.11"
 
 projects[wysiwyg][subdir] = "contrib"
 projects[wysiwyg][version] = "2.2"
