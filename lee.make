@@ -9,13 +9,13 @@ projects[admin_menu][subdir] = "contrib"
 projects[admin_menu][version] = "3.0-rc5"
 
 projects[ctools][subdir] = "contrib"
-projects[ctools][version] = "1.7"
+projects[ctools][version] = "1.9"
 
 projects[date][subdir] = "contrib"
 projects[date][version] = "2.8"
 
 projects[feeds][subdir] = "contrib"
-projects[feeds][version] = "2.0-alpha8"
+projects[feeds][version] = "2.0-beta1"
 
 projects[jcaption][subdir] = "contrib"
 projects[jcaption][version] = "1.4"
@@ -24,7 +24,7 @@ projects[job_scheduler][subdir] = "contrib"
 projects[job_scheduler][version] = "2.0-alpha3"
 
 projects[jquery_update][subdir] = "contrib"
-projects[jquery_update][version] = "2.5"
+projects[jquery_update][version] = "2.7"
 
 projects[menu_block][subdir] = "contrib"
 projects[menu_block][version] = "2.5"
